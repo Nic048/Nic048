@@ -14,9 +14,9 @@
 
 Gosto de tecnologia, de aprender coisas novas e de transformar ideias em projetos úteis. Este perfil reúne meus projetos, experiências e aprendizados em desenvolvimento.
 
-- 🚀 Criando e organizando projetos próprios
-- 📚 Em constante aprendizado
-- 🎯 Foco em soluções práticas e bem apresentadas
+- Criando e organizando projetos próprios
+- Em constante aprendizado
+- Foco em soluções práticas e bem apresentadas
 
 ### 🌐 Projeto em destaque
 
@@ -24,7 +24,7 @@ Gosto de tecnologia, de aprender coisas novas e de transformar ideias em projeto
 
 [Visitar o site →](https://sparkling-poetry-cea1.zero48acessorios.workers.dev/)
 
-### 🧭 Por aqui
+### Por aqui
 
 Compartilho projetos e experimentos à medida que evoluem. As tecnologias utilizadas serão adicionadas conforme os projetos forem publicados.
 
